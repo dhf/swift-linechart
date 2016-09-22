@@ -212,6 +212,7 @@
 				TargetAttributes = {
 					650B08721B9DBC7B0023E06E = {
 						CreatedOnToolsVersion = 7.0;
+						LastSwiftMigration = 0800;
 					};
 					C06F8E141962FFD7000AC9AF = {
 						CreatedOnToolsVersion = 6.0;
@@ -322,6 +323,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.example.linechartFramework;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -347,6 +349,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.example.linechartFramework;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -505,6 +508,7 @@
 				650B08791B9DBC7B0023E06E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C06F8E101962FFD7000AC9AF /* Build configuration list for PBXProject "linechart" */ = {
 			isa = XCConfigurationList;
